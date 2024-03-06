@@ -9,6 +9,6 @@ Hyperparameter tuning was done using GridSearchCV in conjunction with Stratified
 
 Model explainability was addressed through SHAP analysis on both validation and test data, clarifying the impact of principal components on the model's predictions, with PC1 and PC2 being the most influential.
 
-This repository provides two output files: one containing only the predicted values and the other combining these predictions with the corresponding test features.
+This repository provides two output files: one containing only the predicted values and the other combining these predictions with the corresponding test features and model with data transformer artifacts.
 
 
